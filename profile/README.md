@@ -13,6 +13,8 @@ Crystal Expedition is a joint venture in pursuit of creating new game experience
 
 We're working toward something big and plan to create several micro-games along the way to develop our skills and experiences as part-time game designers.
 
+- 🎮 [Recent Releases](https://github.com/orgs/crystal-expedition/discussions/categories/announcements)
+
 ## 🗫Connect With Us
 
 - Join our [Discord Group](http://discord.cryxp.com)
