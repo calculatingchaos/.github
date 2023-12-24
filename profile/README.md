@@ -6,6 +6,8 @@ Learn more about us, what we're up to, and how you can get in touch!
   - [👋Welcome](#welcome)
   - [🗫Connect With Us](#connect-with-us)
   - [👥Who Are We?](#who-are-we)
+    - [Future Plans](#future-plans)
+    - [Engagement](#engagement)
 
 ## 👋Welcome
 
@@ -31,12 +33,16 @@ Shavick focused on leveraging the power and capability of Unity to create entire
 
 > ℹ️ `Crystal Expedition` is a name formed in memory of the two journeys and a shout-out of appreciation to the communities that formed around them.
 
+### Future Plans
+
 After careful consideration, we decided to launch a new project with longer-term goal: designing an open-world multiplayer survival/crafting game with complete systems powered by hand-crafted, non-deterministic AI [expert system](https://en.wikipedia.org/wiki/Expert_system). We're taking inspiration from the [incredible stories shared by the Dwarf Fortress team](https://www.eurogamer.net/why-dwarf-fortress-started-killing-cats) ([buy it here](https://store.steampowered.com/app/975370/Dwarf_Fortress/)) and concepts around [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) ([experience it here](https://playgameoflife.com/)).
 
 Pursuit of something like this requires plenty of preparation: at best, it'll take us years to learn how to leverage a game engine to produce something as large and complex as 7 Days + Dwarf Fortress but we'll make it happen in the end... or at worst, we'll have learned more about how to build games from scratch!
 
 Instead of targeting a single long-term goal, we decided to target lots of little goals as milestones by making several small games. This will help us learn to plan, develop, polish, market, and release several small (very focused) games by prioritizing the concepts/features/technologies we plan to include in our larger game development plans.
 
-That's where you come in (hopefully); we're hoping to create these interesting, byte-sized experiences and would love to give most or all of them away for free! We only ask for feedback so we can learn more from these experiences to make them better or at least to avoid any mistakes we've made in the past when we incorporate those game elements into the larger idea we're working toward.
+### Engagement
 
-Thanks for us on our journey to crafting experiences we can all enjoy!
+We're hoping to create these interesting, byte-sized experiences we would love to build a community around! We'll be interested in your feedback as we learn how to provide solid, engaging experiences and work toward our larger project.
+
+Thanks for joining us on our journey to crafting experiences we can all enjoy!
