@@ -14,6 +14,6 @@ We later released a full-featured 'Hotseat' version of the game (i.e. no multipl
 
 - 📦 [More Info + Download Link](https://github.com/orgs/crystal-expedition/discussions/5)
 
-## Godot Project | 📆 December 25, 2023
+## Godot Project | 📆 December 23, 2023
 
-We began work in a new engine: Godot!
+We began work in a new engine: [Godot](https://godotengine.org/)!
