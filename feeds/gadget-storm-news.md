@@ -29,3 +29,9 @@ FINALLY! Our first early build has been released - marking a major milestone wit
 Lobby/matchmaking server and matches all live in a single process now and we fixed several bugs!
 
 *Because this update is less of a vertical slice and more like a networking tech demo, we're distributing it by request only.*
+
+## Released 0.4.0 | 🗓️ Feb 08, 2024
+
+Gadget and Region functionality is added!
+
+*Looking forward to polishing some more before public vertical slice.*
