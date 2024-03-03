@@ -34,4 +34,8 @@ Gadget and Region functionality is added.
 
 Notifications and Full Keyboard/Controller Navigation added.
 
-- 📦 [More Info + Download Link](https://github.com/orgs/crystal-expedition/discussions/6)
+## Release 0.5.1 | 🗓️ Mar 03, 2024
+
+Quick fix for the News Panel
+
+- 📦 [More Info + Download Link](https://github.com/orgs/crystal-expedition/discussions/7)
