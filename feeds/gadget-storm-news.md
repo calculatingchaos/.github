@@ -22,16 +22,16 @@ We began work in a new engine: [Godot](https://godotengine.org/)!
 
 FINALLY! Our first early build has been released - marking a major milestone with networked multiplayer.
 
-*Because this update is less of a vertical slice and more like a tech demo, we opted not to distribute it for now.*
-
 ## Released 0.3.1 | 📆 Jan 16, 2024
 
-Lobby/matchmaking server and matches all live in a single process now and we fixed several bugs!
-
-*Because this update is less of a vertical slice and more like a networking tech demo, we're distributing it by request only.*
+Lobby/matchmaking server and matches all live in a single process now and we fixed several bugs.
 
 ## Released 0.4.0 | 🗓️ Feb 08, 2024
 
-Gadget and Region functionality is added!
+Gadget and Region functionality is added.
 
-*Looking forward to polishing some more before public vertical slice.*
+## Release 0.5.0 | 🗓️ Mar 03, 2024
+
+Notifications and Full Keyboard/Controller Navigation added.
+
+- 📦 [More Info + Download Link](https://github.com/orgs/crystal-expedition/discussions/6)
