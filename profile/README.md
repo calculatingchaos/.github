@@ -9,7 +9,7 @@ Learn more about us, what we're up to, and how you can get in touch!
 
 ## Introduction
 
-Calculating Chaos is small, part-time game development team in the process of creating engaging multiplayer game experiences.
+Calculating Chaos a is small, part-time game development team in the process of creating engaging multiplayer game experiences.
 
 We're planning something big and are taking on small to medium-sized projects to sharpen our skills as game designers as we work toward it.
 
